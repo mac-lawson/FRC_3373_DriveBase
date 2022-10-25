@@ -1,0 +1,7 @@
+    kP = ; 
+    kI = 1e-4;
+    kD = 1; 
+    kIz = 0; 
+    kFF = 0; 
+    kMaxOutput = 1; 
+    kMinOutput = -1;
